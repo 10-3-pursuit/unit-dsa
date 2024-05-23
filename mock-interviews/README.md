@@ -8,7 +8,7 @@
 
 ## Mock Interviews
 
-During this module, fellows will participate in two or more 30 minute mock interviews. The goal is to experience and get your feet wet with what you will be learning and practicing when you reach the Accelerator Module post Capstone and Demo Day in preparation for job interviews.
+During this module, fellows will participate in two or more 30 minute mock interviews. The goal is to experience and get your feet wet with what you will be learning and practicing when you reach the Accelerator Module post Capstone and Demo Day in order to level up for actual job interviews.
 
 ### Preparation:
 

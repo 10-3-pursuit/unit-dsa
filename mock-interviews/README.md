@@ -64,7 +64,9 @@ console.log(x === y)
 
 ### Good Interview Example:
 
-Here is an example of a [Good Coding Interview Technique](https://www.youtube.com/watch?v=rw4s4M3hFfs&t=140s) While your interview would not be at this level, the approach is what you should study.
+Here is an example of a [Good Coding Interview Technique](https://www.youtube.com/watch?v=rw4s4M3hFfs&t=140s).
+
+While your interview would not be at this level, the approach is what you should study.
 
 ## Peer-to-Peer Mock Interviews
 

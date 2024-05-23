@@ -54,10 +54,11 @@ console.log(x === y)
 
 1. **Implement the Solution**
 
-- Write Code: Translate your pseudocode into actual code. - Write clean, readable code and explain what you’re doing as you write.
-- Think About Edge Cases: Consider and address edge cases in your implementation.
+   - Write Code: Translate your pseudocode into actual code. - Write clean, readable code and explain what you’re doing as you write.
+   - Think About Edge Cases: Consider and address edge cases in your implementation.
 
 1. **Test Your Code**
+
    - Test with Examples: Run through the provided examples and additional edge cases to verify your solution works correctly.
    - Debug if Necessary: If there are issues, debug by explaining your thought process and making corrections.
 

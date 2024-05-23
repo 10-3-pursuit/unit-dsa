@@ -64,7 +64,7 @@ console.log(x === y)
 
 ### Good Interview Example:
 
-Here is an example of a [Good Coding Interview Technique](https://www.youtube.com/watch?v=rw4s4M3hFfs&t=140s).
+Here is an example of a [Google Coding Interview With A Normal Software Engineer](https://www.youtube.com/watch?v=rw4s4M3hFfs&t=140s).
 
 While your interview would not be at this level, the approach is what you should study.
 

@@ -15,7 +15,7 @@ During this module, fellows will participate in two or more 30 minute mock inter
 - Make sure you are in a location that is conducive for an interview (quiet, good internet, ability to turn camera and microphone on)
 - You have other programs closed and you are prepared to start the interview immediately
 
-### This is what you will be evaluated on:
+### How You Will Be Evaluated:
 
 1. **Discussion question:** This is a question that is usually brought up in a behavioral interview and soemtimes brought up as well in a technical or combined interview. You can find a small list of Discussion Questions at this [LINK](https://github.com/joinpursuit/m6-peer-interviews/blob/main/discussion-questions.md) You should be able to answer any of these questions in around one minute.
 
@@ -30,7 +30,7 @@ console.log(x === y)
 
 3. **Code Challenge:** You will be given a code challenge which you will solve verbally lead by your interviewer. You should follow the problem-solving methodologies you have been taught. Demonstrating your problem-solving skills and ability to talk about code is essential.
 
-### Here is a proper strategy to use when handling a code challenge:
+### Here is the proper strategy to use when handling a code challenge:
 
 1. **Understand the Problem**
 

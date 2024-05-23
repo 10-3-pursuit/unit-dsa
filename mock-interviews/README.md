@@ -32,28 +32,32 @@ console.log(x === y)
 
 ### Here is a proper strategy to use when handling a code challenge:
 
-1. Understand the Problem
+1. **Understand the Problem**
+
    - Listen Carefully: Make sure you fully understand the problem statement. If something is unclear, ask for clarification.
    - Restate the Problem: Repeat the problem back to the interviewer in your own words to confirm your understanding.
-1. Clarify Constraints and Edge Cases
+
+1. **Clarify Constraints and Edge Cases**
+
    - Ask Questions: Clarify any constraints, input ranges, edge cases, and expected behavior for unusual or extreme inputs.
    - Confirm Examples: Provide or ask for example inputs and outputs to ensure you understand the requirements.
-1. Plan Your Approach
+
+1. **Plan Your Approach**
 
    - Think Aloud: Verbally outline your approach and thought process. Discuss different ways to solve the problem and choose the most efficient one.
    - Break Down the Problem: Divide the problem into smaller, manageable parts.
 
-1. Write Pseudocode
+1. **Write Pseudocode**
 
    - Outline in Pseudocode: Before jumping into actual code, write pseudocode to organize your thoughts and plan the structure of your solution.
    - Explain the Pseudocode: Walk through the pseudocode, explaining each step and how it addresses the problem.
 
-1. Implement the Solution
+1. **Implement the Solution**
 
 - Write Code: Translate your pseudocode into actual code. - Write clean, readable code and explain what you’re doing as you write.
 - Think About Edge Cases: Consider and address edge cases in your implementation.
 
-1. Test Your Code
+1. **Test Your Code**
    - Test with Examples: Run through the provided examples and additional edge cases to verify your solution works correctly.
    - Debug if Necessary: If there are issues, debug by explaining your thought process and making corrections.
 

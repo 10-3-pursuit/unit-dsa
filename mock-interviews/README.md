@@ -19,7 +19,7 @@ During this module, fellows will participate in two or more 30 minute mock inter
 
 1. **Discussion question:** This is a question that is usually brought up in a behavioral interview and soemtimes brought up as well in a technical or combined interview. You can find a small list of Discussion Questions at this [LINK](https://github.com/joinpursuit/m6-peer-interviews/blob/main/discussion-questions.md). You should be able to answer any of these questions in around one minute. More than a minute and you may lose the interest of your interviewer.
 
-2. **Trivia question:** Every lesson in this unit has a few trivia questions. One (or a similar one) will be chosen from the list. This is to help you practice talking about code concepts. These questions do not require you to code but do require you to talk about theory. e.g. What does isNaN() do? or Do these console blocks return the same thing? Why or why not?
+2. **Trivia question:** Every lesson in this unit has a few trivia questions. One (or a similar one) will be chosen from a list or chosen by the interviewer. This is to help you practice talking about code concepts. These questions do not require you to code but do require you to talk about programming theory. e.g. What does isNaN() do? What is a Class in JavaScript? or Do the console.log statements in this block of code return the same ouput? Why or why not?
 
 ```js
 let x = '2'
